@@ -1,4 +1,4 @@
 # first-repo
-this is my first git repository.
-trying to learn stuff.
+This is my first Git Repository.<br>
+Trying to learn stuff.<br>
 Author - Abhinav Rana
